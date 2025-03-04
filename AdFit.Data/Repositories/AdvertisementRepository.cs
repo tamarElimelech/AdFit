@@ -21,11 +21,12 @@ namespace AdFit.Data.Repositories
         {
             return _context.Advertisements.ToList();
         }
-        public Advertisement AddAdvertisement(Advertisement a)
+        public void AddAdvertisement(Advertisement a)
         {
+
             _context.Advertisements.Add(a);
             _context.SaveChanges();
-            return a;
+            //return a;
         }
         public Advertisement UpdateAdvertisement(int id, Advertisement adv)
         {

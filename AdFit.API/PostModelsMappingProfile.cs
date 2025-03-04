@@ -9,6 +9,9 @@ namespace AdFit.API
         public PostModelsMappingProfile()
         {
             CreateMap<UserPostModel, User>();
+            CreateMap<AdvertisementPostModel, Advertisement>()
+            .ForMember(dest => dest.User, opt => opt.Ignore());
+
         }
 
     }

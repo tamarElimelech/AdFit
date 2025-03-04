@@ -49,10 +49,8 @@ namespace AdFit.API.Controllers
         }
 
         [HttpPost("signIn")]
-      //  [SwaggerOperation(Summary = "User Sign In")]
         public ActionResult<User> SignIn([FromBody] SignInModel signInUser)
         {
-            //User user= _userService.SignIn(signInUser);
             string errorMessage;
             var user = _userService.SignIn(signInUser, out errorMessage);
 

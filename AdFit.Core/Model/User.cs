@@ -19,7 +19,7 @@ namespace AdFit.Core.Model
         public string Name { get; set; }
         public string Email { get; set; }
         public string Phone { get; set; }
-        public List<Advertisement> Advertisements { get; set; }
+        public List<Advertisement>? Advertisements { get; set; }
 
         public ERole Role { get; set; }
     }
