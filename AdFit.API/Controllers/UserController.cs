@@ -33,12 +33,7 @@ namespace AdFit.API.Controllers
         [HttpGet("{id}")]
         public User Get(int id)
         {
-           foreach(User user in _userService.GetAll())
-            {
-                if(id==user.Id)
-                    return user;
-            }
-            return null;
+             return _userService.GetUserById(id);
         }
 
         // POST api/<UserController>

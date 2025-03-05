@@ -25,7 +25,7 @@ namespace AdFit.Data.Repositories
 
         public List<User> GetUsers()
         {
-            return _context.Users.Include(c=>c.Advertisements).ToList();
+            return _context.Users.ToList();
         }
 
         public User GetUserById(int id)

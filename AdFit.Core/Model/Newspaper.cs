@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 namespace AdFit.Core.Model
@@ -15,7 +16,7 @@ namespace AdFit.Core.Model
         public DateTime PublicationDate { get; set; }
 
         public User Manager { get; set; }
-
+        [JsonIgnore]
         public List<Page> pages { get; set; }
 
     }

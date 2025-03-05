@@ -10,8 +10,11 @@ namespace AdFit.Core.Repositories
     public interface IAdvertisementRepository
     {
         List<Advertisement> GetAdvertisements();
+        //List<Advertisement> GetAdvertisementsBase64(); 
         Advertisement AddAdvertisement(Advertisement adv);
         Advertisement UpdateAdvertisement(int id, Advertisement adv);
         void DeleteAdvertisement(int id);
+
+        Advertisement GetById(int id);
     }
 }

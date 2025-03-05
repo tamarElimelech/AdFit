@@ -8,5 +8,6 @@ namespace AdFit.Core.Mapping
 {
     public class MappingProfile
     {
+        
     }
 }

@@ -15,13 +15,15 @@ namespace AdFit.API.Controllers
     {
         private readonly IAdvertisementService _advService;
         private readonly IUserService _userService;
+        private readonly IPageService _pageService;
         private readonly IMapper _mapper;
        
         public AdvertisementController(IAdvertisementService advService,IMapper mapper,
-                                      IUserService userService)
+                                      IUserService userService,IPageService pageService)
         {
             _advService = advService;
             _userService = userService;
+            _pageService = pageService;
             _mapper = mapper;
         }
 
@@ -34,9 +36,14 @@ namespace AdFit.API.Controllers
 
         // GET api/<AdvertisementController>/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public Advertisement Get(int id)
         {
-            return "value";
+            foreach (Advertisement ad in _advService.GetAll())
+            {
+                if (id == ad.Id)
+                    return ad;
+            }
+            return null;
         }
 
         // POST api/<AdvertisementController>
@@ -49,6 +56,7 @@ namespace AdFit.API.Controllers
             if (adv.ImageFile == null)
             {
                 Advertisement a= _mapper.Map<Advertisement>(adv);
+               // a.Image = "";
                 a.User = _userService.GetUserById(adv.UserId);
                
                 if (a.User == null)
@@ -68,28 +76,32 @@ namespace AdFit.API.Controllers
                 }
 
                 var myPath = Path.Combine(imagesPath, adv.ImageFile.FileName);
-
-                //   var myPath = Path.Combine(Environment.CurrentDirectory + "/images/" + adv.ImageFile.FileName);
                 using (FileStream fs = new FileStream(myPath, FileMode.Create)) 
                 {
                     adv.ImageFile.CopyTo(fs);
                     fs.Close();
                 }
-                adv.Image = adv.ImageFile.FileName;
-                //adv.Image = adv.ImageFile.FileName;
+               // adv.Image = adv.ImageFile.FileName;
                 Advertisement advDto = _mapper.Map<Advertisement>(adv);
                 advDto.User = _userService.GetUserById(adv.UserId);
-                _advService.AddAdvertisement(advDto);
+                advDto.Page = _pageService.GetById(1);
+                advDto.Date = DateTime.Now;
+                advDto.Image = adv.ImageFile.FileName; 
+                Advertisement advToAdd = _advService.AddAdvertisement(advDto);
                
-
-                return Ok(advDto);
-
-
+                if(advToAdd != null)
+                {
+                    return Ok(advToAdd);
+                }
+                else {
+                    return BadRequest("Failed to upload to DB");
+                }
+              
             }
             catch (Exception ex)
             {
                 Console.WriteLine("Error to add image in advertisement controller");
-                return StatusCode(500,$"Interval Server Error: {ex.Message} ");
+                return StatusCode(500,$"Interval Server Error: {ex.Message}");
                
             }
             
@@ -110,11 +122,7 @@ namespace AdFit.API.Controllers
             _advService.DeleteAdvertisement(id);
         }
 
-
-        //[HttpPost("uploadImage")]
-        //public ActionResult UploadImage([FromBody] Advertisement adv)
-        //{
-
-        //}
+ 
+       
     }
 }

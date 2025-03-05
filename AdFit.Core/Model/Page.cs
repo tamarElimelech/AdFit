@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 namespace AdFit.Core.Model
@@ -11,7 +12,9 @@ namespace AdFit.Core.Model
     {
       public int Id { get; set; }
       public int PageNumber { get; set; }
-      public List<Advertisement> Advertisements { get; set; }
+
+        [JsonIgnore]
+        public List<Advertisement>? Advertisements { get; set; }
 
       public int Capacity { get; set; } //the sum of full ad in the page
 

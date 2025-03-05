@@ -20,7 +20,7 @@ namespace AdFit.Data.Repositories
 
         public List<Newspaper> GetNewspapers()
         {
-            return _context.Newspapers.Include(n => n.pages).ToList();
+            return _context.Newspapers.ToList();
                
         }
         public Newspaper AddNewspaper(Newspaper np)

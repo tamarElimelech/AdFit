@@ -13,5 +13,7 @@ namespace AdFit.Core.Repositories
         Page AddPage(Page page);
         Page UpdatePage(int id, Page page);
         void DeletePage(int id);
+
+        Page GetById(int id);
     }
 }

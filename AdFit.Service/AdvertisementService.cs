@@ -32,5 +32,11 @@ namespace AdFit.Service
         {
             _advRepository.DeleteAdvertisement(id);
         }
+
+       public Advertisement GetById(int id)
+        {
+            return _advRepository.GetById(id);
+        }
+
     }
 }

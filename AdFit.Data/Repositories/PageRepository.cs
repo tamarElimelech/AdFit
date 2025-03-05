@@ -20,7 +20,7 @@ namespace AdFit.Data.Repositories
 
         public List<Page> GetPages()
         {
-            return _context.Pages.Include(p=>p.Advertisements).ToList();
+            return _context.Pages.ToList();
         }
         public Page AddPage(Page p)
         {
@@ -62,5 +62,11 @@ namespace AdFit.Data.Repositories
            
             _context.SaveChanges();
         }
+
+        public Page GetById(int id)
+        {
+            return _context.Pages.FirstOrDefault(x => x.Id == id);
+        }
+
     }
 }

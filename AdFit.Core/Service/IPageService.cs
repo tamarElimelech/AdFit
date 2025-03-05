@@ -13,5 +13,7 @@ namespace AdFit.Core.Service
         public Page AddPage(Page page);
         public Page UpdatePage(int id, Page page);
         public void DeletePage(int id);
+        Page GetById(int id);
+
     }
 }

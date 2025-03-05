@@ -33,5 +33,11 @@ namespace AdFit.Service
         {
             _pageRepository.DeletePage(id);
         }
+
+      public  Page GetById(int id)
+        {
+            return _pageRepository.GetById(id);
+        }
+
     }
 }
