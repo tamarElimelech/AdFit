@@ -21,34 +21,13 @@ namespace AdFit.Data.Repositories
 
         public List<Advertisement> GetAdvertisements()
         {
-            List<Advertisement> advertisements= _context.Advertisements.ToList();
-            foreach (Advertisement a in advertisements)
-            {
-                a.Image = GetImage(a.Image);
-            }
-            return advertisements;
+            return _context.Advertisements.ToList();
         }
 
-        public string GetImage(string ImageUrl)
-        {
-            if(ImageUrl != null)
-            {
-                var path=Path.Combine(Environment.CurrentDirectory,"images/", ImageUrl);
-                byte[] bytes=System.IO.File.ReadAllBytes(path);
-                string imageBase64=Convert.ToBase64String(bytes);
-                string image = string.Format("data:image/jpeg;base64,{0}", imageBase64);
-                return image;
-            }
-            else
-            {
-                return null;
-            }
-        }
+        
        public Advertisement GetById(int id)
         {
-            Advertisement ad= _context.Advertisements.FirstOrDefault(x => x.Id == id);
-            ad.Image = GetImage(ad.Image);
-            return ad;
+            return _context.Advertisements.FirstOrDefault(x => x.Id == id);
         }
         public Advertisement AddAdvertisement(Advertisement a)
         {
@@ -61,9 +40,7 @@ namespace AdFit.Data.Repositories
             catch (Exception ex)
             {
                 Console.WriteLine($"Error adding advertisement: {ex.Message}");
-                Console.WriteLine($"Error adding advertisement: {ex.InnerException}");
-                // רשום את פרטי החריגה ללוג
-                return null; // זרוק את החריגה כדי שהקונטרולר יוכל לטפל בה
+                return null;
             }
         }
         public Advertisement UpdateAdvertisement(int id, Advertisement adv)
@@ -110,5 +87,6 @@ namespace AdFit.Data.Repositories
             }
             _context.SaveChanges();
         }
+
     }
 }

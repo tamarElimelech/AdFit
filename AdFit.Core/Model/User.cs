@@ -21,7 +21,7 @@ namespace AdFit.Core.Model
         public string Email { get; set; }
         public string Phone { get; set; }
         [JsonIgnore]
-        public List<Advertisement>? Advertisements { get; set; }
+        public List<Advertisement> Advertisements { get; set; } = new List<Advertisement>(); 
 
         public ERole Role { get; set; }
     }

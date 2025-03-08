@@ -19,7 +19,7 @@ namespace AdFit.Core.Repositories
         User GetUserById(int id);
 
         User GetUserByEmail(string email);
-        User SignIn(SignInModel signInUser, out string errorMessage);
+        //User SignIn(SignInModel signInUser, out string errorMessage);
 
         User SignUp(User user);
     }

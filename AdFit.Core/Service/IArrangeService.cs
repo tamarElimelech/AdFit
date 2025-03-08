@@ -11,7 +11,7 @@ namespace AdFit.Core.Service
     {
         //public Advertisement[] AdvertisementsBySize(List<User> users);
         //public bool[] GetEmptySlot(Advertisement[] advertisements);
-        //public Page[] PlacingAdvertisementsOnPages(Advertisement[] advertisements);
+        public void PlacingAdvertisementsOnPages();
 
-   }
+    }
 }

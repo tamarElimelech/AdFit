@@ -1,6 +1,7 @@
 ﻿using AdFit.Core.Model;
 using AdFit.Core.Repositories;
 using AdFit.Core.Service;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,7 +19,28 @@ namespace AdFit.Service
         }
         public List<Advertisement> GetAll()
         {
-            return _advRepository.GetAdvertisements();
+            List<Advertisement> advertisements= _advRepository.GetAdvertisements();
+            foreach (Advertisement a in advertisements)
+            {
+                a.Image = GetImage(a.Image);
+            }
+            return advertisements;
+        }
+
+       private string GetImage(string ImageUrl)
+        {
+            if (ImageUrl != null)
+            {
+                var path = Path.Combine(Environment.CurrentDirectory, "images/", ImageUrl);
+                byte[] bytes = System.IO.File.ReadAllBytes(path);
+                string imageBase64 = Convert.ToBase64String(bytes);
+                string image = string.Format("data:image/jpeg;base64,{0}", imageBase64);
+                return image;
+            }
+            else
+            {
+                return null;
+            }
         }
         public Advertisement AddAdvertisement(Advertisement adv)
         {
@@ -35,7 +57,9 @@ namespace AdFit.Service
 
        public Advertisement GetById(int id)
         {
-            return _advRepository.GetById(id);
+            Advertisement ad = _advRepository.GetById(id);
+            ad.Image = GetImage(ad.Image);
+            return ad;
         }
 
     }

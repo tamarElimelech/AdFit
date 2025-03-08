@@ -47,10 +47,10 @@ namespace AdFit.Service
             _userRepository.DeleteUser(id);
         }
       
-        public User SignIn(SignInModel signInUser, out string errorMessage)
-        {
-            return _userRepository.SignIn(signInUser, out errorMessage);
-        }
+        //public User SignIn(SignInModel signInUser, out string errorMessage)
+        //{
+        //    return _userRepository.SignIn(signInUser, out errorMessage);
+        //}
 
         public User SignUp(User user)
         {

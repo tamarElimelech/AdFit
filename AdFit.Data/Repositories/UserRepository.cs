@@ -85,25 +85,25 @@ namespace AdFit.Data.Repositories
         }
 
 
-        public User SignIn(SignInModel signInUser, out string errorMessage)
-        {
-            var user = _context.Users.FirstOrDefault(u => u.Email == signInUser.Email);
+        //public User SignIn(SignInModel signInUser, out string errorMessage)
+        //{
+        //    var user = _context.Users.FirstOrDefault(u => u.Email == signInUser.Email);
 
-            if (user == null)
-            {
-                errorMessage = "User not found";
-                return null;
-            }
+        //    if (user == null)
+        //    {
+        //        errorMessage = "User not found";
+        //        return null;
+        //    }
 
-            if (!user.Password.Equals(signInUser.Password))
-            {
-                errorMessage = "Incorrect password";
-                return null;
-            }
+        //    if (!user.Password.Equals(signInUser.Password))
+        //    {
+        //        errorMessage = "Incorrect password";
+        //        return null;
+        //    }
 
-            errorMessage = null; // No error
-            return user;
-        }
+        //    errorMessage = null; // No error
+        //    return user;
+        //}
 
 
 

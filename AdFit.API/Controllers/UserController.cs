@@ -3,6 +3,7 @@ using AdFit.Core.Model;
 using AdFit.Core.Service;
 using AdFit.Service;
 using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Swashbuckle.AspNetCore.Annotations;
 
@@ -12,6 +13,7 @@ namespace AdFit.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class UserController : ControllerBase
     {
         private readonly IUserService _userService;
@@ -43,39 +45,39 @@ namespace AdFit.API.Controllers
            return _userService.AddUser(_mapper.Map<User>(user));
         }
 
-        [HttpPost("signIn")]
-        public ActionResult<User> SignIn([FromBody] SignInModel signInUser)
-        {
-            string errorMessage;
-            var user = _userService.SignIn(signInUser, out errorMessage);
+        //[HttpPost("signIn")]
+        //public ActionResult<User> SignIn([FromBody] SignInModel signInUser)
+        //{
+        //    string errorMessage;
+        //    var user = _userService.SignIn(signInUser, out errorMessage);
 
-            if (user == null)
-            {
-                if (errorMessage == "User not found")
-                {
-                    return NotFound("User not found");
-                }
+        //    if (user == null)
+        //    {
+        //        if (errorMessage == "User not found")
+        //        {
+        //            return NotFound("User not found");
+        //        }
 
-                if (errorMessage == "Incorrect password")
-                {
-                    return Conflict("Incorrect password");
-                }
-            }
+        //        if (errorMessage == "Incorrect password")
+        //        {
+        //            return Conflict("Incorrect password");
+        //        }
+        //    }
 
-            return Ok(user);
+        //    return Ok(user);
 
-        }
+        //}
 
-        [HttpPost("signUp")]
-        public ActionResult<User> SignUp([FromBody] UserPostModel user)
-        {
-            User u=_userService.SignUp(_mapper.Map<User>(user));
-            if(u == null)
-            {
-                return Conflict();
-            }
-            return Ok(u);
-        }
+        //[HttpPost("signUp")]
+        //public ActionResult<User> SignUp([FromBody] UserPostModel user)
+        //{
+        //    User u=_userService.SignUp(_mapper.Map<User>(user));
+        //    if(u == null)
+        //    {
+        //        return Conflict();
+        //    }
+        //    return Ok(u);
+        //}
 
             // PUT api/<UserController>/5
             [HttpPut("{id}")]

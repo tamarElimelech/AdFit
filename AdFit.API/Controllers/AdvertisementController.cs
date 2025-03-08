@@ -3,6 +3,7 @@ using AdFit.Core.Model;
 using AdFit.Core.Service;
 using AdFit.Data;
 using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -11,6 +12,7 @@ namespace AdFit.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class AdvertisementController : ControllerBase
     {
         private readonly IAdvertisementService _advService;
@@ -38,12 +40,7 @@ namespace AdFit.API.Controllers
         [HttpGet("{id}")]
         public Advertisement Get(int id)
         {
-            foreach (Advertisement ad in _advService.GetAll())
-            {
-                if (id == ad.Id)
-                    return ad;
-            }
-            return null;
+           return _advService.GetById(id);
         }
 
         // POST api/<AdvertisementController>
@@ -52,17 +49,16 @@ namespace AdFit.API.Controllers
         {
             //נעשה את כל לוגיקת העלאת התמונה בקונטרולר ולא ברםוזיטורי 
             // בגלל שהPOSTMODEL מוגדר בפרויקט הAPI ואין לי גישה אליו ברפויזטורי
-            
+            Advertisement a= _mapper.Map<Advertisement>(adv);
+            a.User = _userService.GetUserById(adv.UserId);
+            a.Page = _pageService.GetById(0);
+            if (a.User == null || a.Page==null)
+            {
+                return BadRequest("user not found");
+            }
+            a.Date = DateTime.Now;
             if (adv.ImageFile == null)
             {
-                Advertisement a= _mapper.Map<Advertisement>(adv);
-               // a.Image = "";
-                a.User = _userService.GetUserById(adv.UserId);
-               
-                if (a.User == null)
-                {
-                    return  BadRequest("user not found");
-                }
                Advertisement advToAdd= _advService.AddAdvertisement(a);
                return Ok(advToAdd);
             }
@@ -81,13 +77,8 @@ namespace AdFit.API.Controllers
                     adv.ImageFile.CopyTo(fs);
                     fs.Close();
                 }
-               // adv.Image = adv.ImageFile.FileName;
-                Advertisement advDto = _mapper.Map<Advertisement>(adv);
-                advDto.User = _userService.GetUserById(adv.UserId);
-                advDto.Page = _pageService.GetById(1);
-                advDto.Date = DateTime.Now;
-                advDto.Image = adv.ImageFile.FileName; 
-                Advertisement advToAdd = _advService.AddAdvertisement(advDto);
+                a.Image = adv.ImageFile.FileName; 
+                Advertisement advToAdd = _advService.AddAdvertisement(a);
                
                 if(advToAdd != null)
                 {
@@ -96,16 +87,12 @@ namespace AdFit.API.Controllers
                 else {
                     return BadRequest("Failed to upload to DB");
                 }
-              
             }
             catch (Exception ex)
             {
                 Console.WriteLine("Error to add image in advertisement controller");
                 return StatusCode(500,$"Interval Server Error: {ex.Message}");
-               
             }
-            
-            
         }
 
         // PUT api/<AdvertisementController>/5

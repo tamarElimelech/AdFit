@@ -20,7 +20,7 @@ namespace AdFit.Data.Repositories
 
         public List<Page> GetPages()
         {
-            return _context.Pages.ToList();
+            return _context.Pages.Include(p=>p.Advertisements).ToList();
         }
         public Page AddPage(Page p)
         {

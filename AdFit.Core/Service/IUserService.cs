@@ -20,7 +20,7 @@ namespace AdFit.Core.Service
 
         public User GetUserByEmail(string email);
 
-        public User SignIn(SignInModel signInUser, out string errorMessage);
+        //public User SignIn(SignInModel signInUser, out string errorMessage);
 
         public User SignUp(User user);
 

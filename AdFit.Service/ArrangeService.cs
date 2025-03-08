@@ -13,15 +13,22 @@ namespace AdFit.Service
     public class ArrangeService : IArrangeService
     {
         private readonly IUserService _userService;
+        private readonly IPageService _pageService;
         Random random = new Random();
 
-        public ArrangeService(IUserService userService)
+        public ArrangeService(IUserService userService, IPageService pageService)
         {
-            _userService = userService;
+           _userService = userService;
+           _pageService = pageService;
         }
         public Advertisement[] AdvertisementsBySize(List<User> users)
         {//return array with all the adversiments for this week order by size from FULL to EIGHTH
-            List<Advertisement>[] advertisementsBySize = new List<Advertisement>[4];
+            List<Advertisement>[] advertisementsBySize = new List<Advertisement>[4]{
+              new List<Advertisement>(),
+              new List<Advertisement>(),
+              new List<Advertisement>(),
+              new List<Advertisement>()
+             };
             int cntAd = 0;
             foreach (var user in users)
             {
@@ -109,7 +116,7 @@ namespace AdFit.Service
             return empties;
         }
         //לא פונקציה סגורה
-        public Page[] PlacingAdvertisementsOnPages(Advertisement[] advertisements)
+        public void PlacingAdvertisementsOnPages()
         {
 
             List<User> users = _userService.GetAll();
@@ -123,26 +130,27 @@ namespace AdFit.Service
             {
                 do
                 {
-                     randPage = random.Next(0, numPages + 1);
+                     randPage = random.Next(0, numPages); //זה כולל המספרים או לא?
                     if (pages[randPage] == null)
                     {
                         pages[randPage] = new Page();
                         break;
                     }
                 } while (pages[randPage].Capacity==8);
+                if (pages[randPage] == null)
+                {
+                    pages[randPage] = new Page { Advertisements = new List<Advertisement>() };
+                }
                 Page selectedPage = pages[randPage];
+
                 selectedPage.Advertisements.Add(allAdvertisements[NumberAdsPlaced]);
                 selectedPage.Capacity = (int)allAdvertisements[NumberAdsPlaced].Size;
                 selectedPage.PageNumber=randPage;
+                Page p=_pageService.AddPage(selectedPage);
                 NumberAdsPlaced++;
             }
             
 
-     return pages;
-
         }
-
-
-
     }
 }
