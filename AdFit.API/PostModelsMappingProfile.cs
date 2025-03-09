@@ -12,6 +12,7 @@ namespace AdFit.API
             CreateMap<AdvertisementPostModel, Advertisement>()
             .ForMember(dest => dest.User, opt => opt.Ignore());
             CreateMap<User,SignInModel>();
+            CreateMap<PagePostModel, Page>();
 
         }
 

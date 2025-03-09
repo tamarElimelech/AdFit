@@ -21,13 +21,13 @@ namespace AdFit.Data.Repositories
 
         public List<Advertisement> GetAdvertisements()
         {
-            return _context.Advertisements.ToList();
+            return _context.Advertisements.Include(a=>a.User).ToList();
         }
 
         
        public Advertisement GetById(int id)
         {
-            return _context.Advertisements.FirstOrDefault(x => x.Id == id);
+            return _context.Advertisements.Include(a=>a.User).FirstOrDefault(x => x.Id == id);
         }
         public Advertisement AddAdvertisement(Advertisement a)
         {

@@ -14,12 +14,15 @@ namespace AdFit.Service
     {
         private readonly IUserService _userService;
         private readonly IPageService _pageService;
+        private readonly IAdvertisementService _advService;
+
         Random random = new Random();
 
-        public ArrangeService(IUserService userService, IPageService pageService)
+        public ArrangeService(IUserService userService, IPageService pageService,IAdvertisementService advertisementService)
         {
            _userService = userService;
            _pageService = pageService;
+            _advService = advertisementService;
         }
         public Advertisement[] AdvertisementsBySize(List<User> users)
         {//return array with all the adversiments for this week order by size from FULL to EIGHTH
@@ -32,29 +35,35 @@ namespace AdFit.Service
             int cntAd = 0;
             foreach (var user in users)
             {
-                foreach (var ad in user.Advertisements)
+                foreach (var ad in user.Advertisements.ToList())
                 {
                     if (ad.NumOfWeeks > 0)
                     {
                         ad.NumOfWeeks--; //remove this week
+                        _advService.UpdateAdvertisement(ad.Id,ad);
                         cntAd++; //count the advertisment
-                        switch (ad.Size)
+                        switch ((int)ad.Size)
                         {
-                            case Esize.FULL:
+                            case 8:
                                 advertisementsBySize[0].Add(ad);
                                 break;
-                            case Esize.HALF:
+                            case 4:
                                 advertisementsBySize[1].Add(ad);
                                 break;
-                            case Esize.QUARTER:
+                            case 2:
                                 advertisementsBySize[2].Add(ad);
                                 break;
-                            case Esize.EIGHTH:
+                            case 1:
                                 advertisementsBySize[3].Add(ad);
                                 break;
                             default:
                                 break;
                         }
+                    }
+                    else
+                    {
+                        _advService.DeleteAdvertisement(ad.Id);
+                        user.Advertisements.Remove(ad);
                     }
                 }
             }
@@ -81,7 +90,7 @@ namespace AdFit.Service
             }
 
             return sumAllAd;
-        }
+        }       
 
         public bool[] GetEmptySlot(Advertisement[] advertisements)
         {
@@ -115,15 +124,29 @@ namespace AdFit.Service
 
             return empties;
         }
+
+        public void deleteOldPages()
+        {
+            List<Page> pages = _pageService.GetAll();
+            foreach (Page p in pages)
+            {
+                _pageService.DeletePage(p.Id);
+            }
+        }
         //לא פונקציה סגורה
         public void PlacingAdvertisementsOnPages()
         {
-
+            deleteOldPages();
             List<User> users = _userService.GetAll();
             Advertisement[] allAdvertisements = AdvertisementsBySize(users); //get all the advertisment sorted by size
             int sumAd= SumAllAdd(allAdvertisements);
-            int numPages = (sumAd / 8) + 1; //num pages in this newspaper
-            Page[] pages = new Page[numPages]; //array of the pages
+            
+            int numPages = (sumAd / 8); //num pages in this newspaper
+            if (sumAd % 8 != 0)
+            {
+                numPages++;
+            }
+                Page[] pages = new Page[numPages]; //array of the pages
             int randPage;
             int NumberAdsPlaced = 0;
             while (NumberAdsPlaced<allAdvertisements.Length)
@@ -137,16 +160,16 @@ namespace AdFit.Service
                         break;
                     }
                 } while (pages[randPage].Capacity==8);
-                if (pages[randPage] == null)
+                if (pages[randPage].Capacity==0)
                 {
-                    pages[randPage] = new Page { Advertisements = new List<Advertisement>() };
+                    pages[randPage] = _pageService.AddPage(pages[randPage]);
                 }
                 Page selectedPage = pages[randPage];
 
                 selectedPage.Advertisements.Add(allAdvertisements[NumberAdsPlaced]);
-                selectedPage.Capacity = (int)allAdvertisements[NumberAdsPlaced].Size;
+                selectedPage.Capacity += (int)allAdvertisements[NumberAdsPlaced].Size;
                 selectedPage.PageNumber=randPage;
-                Page p=_pageService.AddPage(selectedPage);
+                Page p=_pageService.UpdatePage(selectedPage.Id,selectedPage);
                 NumberAdsPlaced++;
             }
             

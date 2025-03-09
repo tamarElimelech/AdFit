@@ -13,7 +13,7 @@ namespace AdFit.Core.Model
       public int Id { get; set; }
       public int PageNumber { get; set; }
 
-        [JsonIgnore]
+        //[JsonIgnore]
         public List<Advertisement>? Advertisements { get; set; } = new List<Advertisement>();
 
         public int Capacity { get; set; } //the sum of full ad in the page

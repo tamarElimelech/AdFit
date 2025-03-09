@@ -1,6 +1,8 @@
-﻿using AdFit.Core.Model;
+﻿using AdFit.API.Models;
+using AdFit.Core.Model;
 using AdFit.Core.Service;
 using AdFit.Service;
+using AutoMapper;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
@@ -18,12 +20,15 @@ namespace AdFit.API.Controllers
         private readonly IPageService _pageService;
         private readonly IAdvertisementService _advService;
         private readonly IArrangeService _arrangeService;
+        private readonly IMapper _mapper;
 
-        public PageController(IPageService pageService, IAdvertisementService advService,IArrangeService arrangeService)
+        public PageController(IPageService pageService, IAdvertisementService advService,
+                              IArrangeService arrangeService,IMapper mapper)
         {
             _pageService = pageService;
             _advService = advService;
             _arrangeService = arrangeService;
+            _mapper = mapper;
         }
 
         // GET: api/<PageController>
@@ -43,9 +48,9 @@ namespace AdFit.API.Controllers
 
         // POST api/<PageController>
         [HttpPost]
-        public Page Post([FromBody] Page page)
+        public Page Post([FromBody] PagePostModel page)
         {
-            return _pageService.AddPage(page);
+            return _pageService.AddPage(_mapper.Map<Page>(page));
         }
 
         // PUT api/<PageController>/5

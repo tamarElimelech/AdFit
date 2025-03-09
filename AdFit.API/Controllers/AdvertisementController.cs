@@ -51,8 +51,8 @@ namespace AdFit.API.Controllers
             // בגלל שהPOSTMODEL מוגדר בפרויקט הAPI ואין לי גישה אליו ברפויזטורי
             Advertisement a= _mapper.Map<Advertisement>(adv);
             a.User = _userService.GetUserById(adv.UserId);
-            a.Page = _pageService.GetById(0);
-            if (a.User == null || a.Page==null)
+            //a.Page = _pageService.GetById(6);
+            if (a.User == null )
             {
                 return BadRequest("user not found");
             }

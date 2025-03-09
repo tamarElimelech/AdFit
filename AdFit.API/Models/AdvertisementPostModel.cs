@@ -11,6 +11,6 @@ namespace AdFit.API.Models
        // public int PageId { get; set; } // מוסיפים PageId מפורש
         public Esize Size { get; set; }
         public int NumOfWeeks { get; set; }  //כמות השבועות לפירסומת
-        public int NumOfAd { get; set; }  //מספר סידורי של הפירסומת
+       // public int NumOfAd { get; set; }  //מספר סידורי של הפירסומת
     }
 }

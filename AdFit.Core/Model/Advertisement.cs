@@ -24,7 +24,9 @@ namespace AdFit.Core.Model
         public User User { get; set; }
         public string Image { get; set; }
         public DateTime Date { get; set; }
+        [JsonIgnore]
         public Page? Page { get; set; }
+
         public Esize Size { get; set; }
         public int NumOfWeeks { get; set; }  //כמות השבועות לפירסומת
         public int NumOfAd { get; set; }  //מספר סידורי של הפירסומת

@@ -25,14 +25,12 @@ namespace AdFit.Data.Repositories
 
         public List<User> GetUsers()
         {
-            return _context.Users.ToList();
+            return _context.Users.Include(u=>u.Advertisements).ToList();
         }
 
         public User GetUserById(int id)
         {
-            List<User> users=GetUsers();
-            User user=users.Find(u=>u.Id==id);
-            return user;
+            return _context.Users.Include(_u => _u.Advertisements).FirstOrDefault(u => u.Id == id);
         }
 
         public User GetUserByEmail(string email)

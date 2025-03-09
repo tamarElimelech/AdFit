@@ -49,23 +49,19 @@ namespace AdFit.Data.Repositories
         }
         public void DeletePage(int id)
         {
-            List<Page> pages = _context.Pages.ToList();
-            foreach (Page p in pages)
+            Page p = _context.Pages.Find(id);
+            foreach (var ad in p.Advertisements)
             {
-                if (p.Id == id)
-                {
-                    _context.Pages.Remove(p);
-                    break;
-                }
-
+                ad.Page = null; 
             }
-           
+            _context.SaveChanges();
+            _context.Pages.Remove(p);
             _context.SaveChanges();
         }
 
         public Page GetById(int id)
         {
-            return _context.Pages.FirstOrDefault(x => x.Id == id);
+            return _context.Pages.Include(p=>p.Advertisements).FirstOrDefault(x => x.Id == id);
         }
 
     }
