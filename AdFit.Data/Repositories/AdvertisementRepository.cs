@@ -27,7 +27,7 @@ namespace AdFit.Data.Repositories
         
        public Advertisement GetById(int id)
         {
-            return _context.Advertisements.Include(a=>a.User).FirstOrDefault(x => x.Id == id);
+            return _context.Advertisements.Include(a => a.User).Include(a=>a.Page).FirstOrDefault(x => x.Id == id);
         }
         public Advertisement AddAdvertisement(Advertisement a)
         {

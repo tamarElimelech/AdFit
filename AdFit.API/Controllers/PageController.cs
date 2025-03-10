@@ -13,7 +13,7 @@ namespace AdFit.API.Controllers
 {    
     [Route("api/[controller]")]
     [ApiController]
-  //  [Authorize]
+    [Authorize]
     public class PageController : ControllerBase
     {
 
@@ -69,6 +69,7 @@ namespace AdFit.API.Controllers
             _pageService.DeletePage(id);
         }
 
+        [AllowAnonymous]
         // POST api/<PageController>
         [HttpGet("GetResponseFromCustomers")]
         public ActionResult GetResponseFromCustomers([FromQuery] string response, [FromQuery] string adId)
@@ -87,7 +88,7 @@ namespace AdFit.API.Controllers
                 Page p = _pageService.GetById(ad.Page.Id);
                 if (p != null)
                 {
-                    p.Capacity = p.Capacity * 2;
+                    p.Capacity += (int)Math.Pow(2,index);
                     _pageService.UpdatePage(p.Id, p);
                 }
               
