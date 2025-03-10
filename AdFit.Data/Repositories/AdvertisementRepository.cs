@@ -18,7 +18,7 @@ namespace AdFit.Data.Repositories
             _context = context;
            
         }
-
+        
         public List<Advertisement> GetAdvertisements()
         {
             return _context.Advertisements.Include(a=>a.User).ToList();

@@ -16,13 +16,15 @@ public class AuthController : ControllerBase
     private readonly IConfiguration _configuration;
     private readonly IUserService _userService;
     private readonly IMapper _mapper;
+    private readonly IArrangeService _arrangeService;
 
 
-    public AuthController(IConfiguration configuration,IUserService userService,IMapper mapper)
+    public AuthController(IConfiguration configuration,IUserService userService,IMapper mapper,IArrangeService arrangeService)
     {
         _configuration = configuration;
         _userService = userService;
         _mapper = mapper;
+        _arrangeService = arrangeService;
 
     }
 
@@ -61,6 +63,7 @@ public class AuthController : ControllerBase
             var tokenString = new JwtSecurityTokenHandler().WriteToken(tokeOptions);
             return Ok(new { Token = tokenString });
         }
+
         return Unauthorized();
     }
 

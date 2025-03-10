@@ -9,11 +9,13 @@ namespace AdFit.Core.Service
 {
     public interface IAdvertisementService
     {
+        List<Advertisement> GetAllBytes();
         List<Advertisement> GetAll();
         public Advertisement AddAdvertisement(Advertisement adv);
         public Advertisement UpdateAdvertisement(int id, Advertisement adv);
         public void DeleteAdvertisement(int id);
-        Advertisement GetById(int id);
+        public  Advertisement GetById(int id);
+        public Advertisement GetByIdBytes(int id);
 
 
     }

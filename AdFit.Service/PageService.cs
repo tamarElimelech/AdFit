@@ -2,6 +2,7 @@
 using AdFit.Core.Repositories;
 using AdFit.Core.Service;
 using Azure;
+using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -39,5 +40,13 @@ namespace AdFit.Service
             return _pageRepository.GetById(id);
         }
 
+        public Esize updateAdToDuble( Advertisement ad)
+        {
+                int sizeValue = (int)ad.Size;
+                sizeValue *= 2;
+                ad.Size = (Esize)sizeValue;
+            return ad.Size;
     }
+
+}
 }

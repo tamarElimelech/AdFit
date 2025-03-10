@@ -85,6 +85,8 @@ builder.Services.AddAuthentication(options =>
     };
 });
 
+builder.WebHost.UseUrls("https://*:7194");
+
 //builder.Services.AddAuthorization(options =>
 //{
 //    options.DefaultAuthenticateScheme=JwtBearerDefaults.AuthenticationScheme; 

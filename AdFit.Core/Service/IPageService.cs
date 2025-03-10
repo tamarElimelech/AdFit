@@ -14,6 +14,8 @@ namespace AdFit.Core.Service
         public Page UpdatePage(int id, Page page);
         public void DeletePage(int id);
         Page GetById(int id);
+        public Esize updateAdToDuble(Advertisement ad);
+
 
     }
 }

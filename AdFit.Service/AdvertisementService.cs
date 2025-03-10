@@ -17,7 +17,12 @@ namespace AdFit.Service
         {
             _advRepository = advRepository;
         }
+
         public List<Advertisement> GetAll()
+        {
+            return _advRepository.GetAdvertisements();
+        }
+        public List<Advertisement> GetAllBytes()
         {
             List<Advertisement> advertisements= _advRepository.GetAdvertisements();
             foreach (Advertisement a in advertisements)
@@ -55,12 +60,19 @@ namespace AdFit.Service
             _advRepository.DeleteAdvertisement(id);
         }
 
-       public Advertisement GetById(int id)
+       public Advertisement GetByIdBytes(int id)
         {
             Advertisement ad = _advRepository.GetById(id);
             ad.Image = GetImage(ad.Image);
             return ad;
         }
+
+         public Advertisement GetById(int id)
+        {
+            Advertisement ad = _advRepository.GetById(id);
+            return ad;
+        }
+
 
     }
 }

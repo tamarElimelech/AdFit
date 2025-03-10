@@ -12,7 +12,7 @@ namespace AdFit.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
+ //   [Authorize]
     public class AdvertisementController : ControllerBase
     {
         private readonly IAdvertisementService _advService;
@@ -35,6 +35,8 @@ namespace AdFit.API.Controllers
         {
             return _advService.GetAll();
         }
+
+
 
         // GET api/<AdvertisementController>/5
         [HttpGet("{id}")]
