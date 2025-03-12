@@ -72,49 +72,45 @@ namespace AdFit.API.Controllers
             _pageService.DeletePage(id);
         }
 
+        private static readonly object _lockObj = new object();
+
+
         [AllowAnonymous]
         // POST api/<PageController>
         [HttpGet("GetResponseFromCustomers")]
         public ActionResult GetResponseFromCustomers([FromQuery] string response, [FromQuery] string adId)
         {
-            bool[] empties = _arrangeService.GetEmptySlot();
-            Advertisement ad = _advService.GetById(int.Parse(adId));
-            if (ad == null)
+            lock (_lockObj) //נעילה למניעת בעיות סנכרון
             {
-                return NotFound();
-            }
-            DateTime sendTime = (DateTime)ad.EmailSentTime;
-            DateTime deadline = sendTime.AddDays(1); // זמן תפוגה של יום
-            if (DateTime.Now > deadline)
-            {
-                string msg = "This offer has expired.";
-                string subject = "sorry, have a nice day";
-                _arrangeService.SendEmail(ad, subject, msg);
-                return Ok();
-            }
-            int index = (int)Math.Log((int)ad.Size, 2);
-            if (response.Equals("true") && empties[index]==true)
-            {
-                ad.Size = _pageService.updateAdToDuble(ad);
-                _advService.UpdateAdvertisement(ad.Id, ad);
-                //אני לא מעדכנת את העמוד כי עדין לא עשיתי סידור לעמודים
-                //Page p = _pageService.GetById(ad.Page.Id);
-                //if (p != null)
-                //{
-                //    p.Capacity += (int)Math.Pow(2,index);
-                //    _pageService.UpdatePage(p.Id, p);
-                //}
-              
-                Console.WriteLine("good answer");
-
-            } 
-            else if(response.Equals("true"))
+                bool[] empties = _arrangeService.GetEmptySlot();
+                Advertisement ad = _advService.GetById(int.Parse(adId));
+                if (ad == null)
                 {
-                    string msg = "the offer catched on size "+ad.Size;
+                    return NotFound();
+                }
+                DateTime sendTime = (DateTime)ad.EmailSentTime;
+                DateTime deadline = sendTime.AddDays(1); // זמן תפוגה של יום
+                if (DateTime.Now > deadline)
+                {
+                    string msg = "This offer has expired.";
+                    string subject = "sorry, have a nice day";
+                    _arrangeService.SendEmail(ad, subject, msg);
+                    return Ok();
+                }
+                int index = (int)Math.Log((int)ad.Size, 2);
+                if (response.Equals("true") && empties[index] == true)
+                {
+                    ad.Size = _pageService.updateAdToDuble(ad);
+                    _advService.UpdateAdvertisement(ad.Id, ad);
+                }
+                else if (response.Equals("true"))
+                {
+                    string msg = "the offer catched on size " + ad.Size;
                     string subject = "sory, have a nice day";
                     _arrangeService.SendEmail(ad, subject, msg);
                 }
-            return Ok();
+                return Ok();
+            }
         }
 
         [HttpGet("getEmpties")]

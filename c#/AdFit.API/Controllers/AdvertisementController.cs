@@ -108,7 +108,7 @@ namespace AdFit.API.Controllers
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
-            _advService.DeleteAdvertisement(id);
+            _advService.DeleteAdvertisementWithImage(id);
         }
 
  

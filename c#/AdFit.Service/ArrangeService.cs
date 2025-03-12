@@ -64,7 +64,7 @@ namespace AdFit.Service
                     }
                     else
                     {
-                        _advService.DeleteAdvertisement(ad.Id);
+                        _advService.DeleteAdvertisementWithImage(ad.Id);
                         user.Advertisements.Remove(ad);
                     }
                 }

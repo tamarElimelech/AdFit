@@ -50,7 +50,6 @@ namespace AdFit.API.Controllers
             // בגלל שהPOSTMODEL מוגדר בפרויקט הAPI ואין לי גישה אליו ברפויזטורי
             AdminAdvertisement a = _mapper.Map<AdminAdvertisement>(adv);
             a.User = _userService.GetUserById(adv.UserId);
-            //a.Page = _pageService.GetById(6);
             if (a.User == null)
             {
                 return BadRequest("user not found");
@@ -106,10 +105,7 @@ namespace AdFit.API.Controllers
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
-            _advService.DeleteAdminAdvertisement(id);
+            _advService.DeleteAdmiAdvertisementWithImage(id);
         }
-
-
-
     }
 }

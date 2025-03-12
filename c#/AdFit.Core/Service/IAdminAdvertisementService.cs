@@ -12,7 +12,7 @@ namespace AdFit.Core.Service
         List<AdminAdvertisement> GetAdminAll();
         public AdminAdvertisement AddAdminAdvertisement(AdminAdvertisement adv);
         public AdminAdvertisement UpdateAdminAdvertisement(int id, AdminAdvertisement adv);
-        public void DeleteAdminAdvertisement(int id);
+        public void DeleteAdmiAdvertisementWithImage(int id);
         public AdminAdvertisement GetAdminById(int id);
         public void AddAdminAdsToFillHoles(bool[] empties);
 

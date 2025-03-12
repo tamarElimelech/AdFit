@@ -30,8 +30,36 @@ namespace AdFit.Service
             return _advAdminRepository.UpdateAdminAdvertisement(id, adv);
         }
 
-        public void DeleteAdminAdvertisement(int id)
+        public void DeleteAdmiAdvertisementWithImage(int id)
         {
+
+            AdminAdvertisement ad = GetAdminById(id);
+            if (ad == null)
+            {
+                Console.WriteLine("ad not found");
+                return ;
+            }
+
+            // שלב 2: מחיקת התמונה מהתקיה
+            if (!string.IsNullOrEmpty(ad.Image))
+            {
+                try
+                {
+                    var imagesPath = Path.Combine(Environment.CurrentDirectory, "images");
+                    var imagePath = Path.Combine(imagesPath, ad.Image);
+
+                    if (System.IO.File.Exists(imagePath))
+                    {
+                        System.IO.File.Delete(imagePath); 
+                    }
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.Message);
+                    return;
+                }
+            }
+
             _advAdminRepository.DeleteAdminAdvertisement(id);
         }
         public AdminAdvertisement GetAdminById(int id)

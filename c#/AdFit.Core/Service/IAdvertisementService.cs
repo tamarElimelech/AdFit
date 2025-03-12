@@ -13,7 +13,7 @@ namespace AdFit.Core.Service
         List<Advertisement> GetAll();
         public Advertisement AddAdvertisement(Advertisement adv);
         public Advertisement UpdateAdvertisement(int id, Advertisement adv);
-        public void DeleteAdvertisement(int id);
+        public void DeleteAdvertisementWithImage(int id);
         public  Advertisement GetById(int id);
        
         public Advertisement GetByIdBytes(int id);
