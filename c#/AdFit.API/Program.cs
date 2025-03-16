@@ -73,35 +73,16 @@ builder.Services.AddAutoMapper(typeof(MappingProfile), typeof(PostModelsMappingP
 
 //לבעית ה-CROS
 var policy = "policy";
-//builder.Services.AddCors(options =>
-//{
-//    options.AddPolicy(name: policy, policy =>
-//    {
-//        policy.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod();
-//    });
-//});
 builder.Services.AddCors(options =>
 {
     options.AddPolicy(name: policy, policy =>
     {
-        policy.WithOrigins("http://localhost:4200")  // כתובת הממשק שלך
+        policy.WithOrigins("http://localhost:4200") 
               .AllowAnyHeader()
               .AllowAnyMethod();
              // .AllowCredentials();
     });
 });
-
-
-//builder.Services.AddCors(options =>
-//{
-//    options.AddPolicy("AllowAngular", builder =>
-//    {
-//        builder.WithOrigins("http://localhost:4200", "http://localhost:52377", "http://localhost:4200/user", "https://localhost:63026")
-//               .AllowAnyMethod()
-//               .AllowAnyHeader()
-//               .AllowCredentials(); // מאפשר שליחת קוקיז או Authentication
-//    });
-//});
 
 builder.Services.AddAuthentication(options =>
 {
@@ -144,8 +125,6 @@ app.UseAuthentication();
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
-
-
 
 app.MapControllers();
 
