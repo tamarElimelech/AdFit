@@ -23,6 +23,7 @@ namespace AdFit.Core.Service
         //public User SignIn(SignInModel signInUser, out string errorMessage);
 
         public User SignUp(User user);
+        public bool IsPasswordHashed(string password);
 
     }
 }

@@ -8,5 +8,7 @@ namespace AdFit.Core.DTOs
 {
     public class UserDTO
     {
+
+
     }
 }

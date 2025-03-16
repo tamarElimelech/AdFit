@@ -12,7 +12,7 @@ namespace AdFit.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
- //   [Authorize]
+    [Authorize]
     public class AdvertisementController : ControllerBase
     {
         private readonly IAdvertisementService _advService;

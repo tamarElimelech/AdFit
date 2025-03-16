@@ -4,6 +4,7 @@ using AdFit.Core.Repositories;
 using AdFit.Core.Service;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using BCrypt.Net;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -82,35 +83,13 @@ namespace AdFit.Data.Repositories
             _context.SaveChanges();      
         }
 
-
-        //public User SignIn(SignInModel signInUser, out string errorMessage)
-        //{
-        //    var user = _context.Users.FirstOrDefault(u => u.Email == signInUser.Email);
-
-        //    if (user == null)
-        //    {
-        //        errorMessage = "User not found";
-        //        return null;
-        //    }
-
-        //    if (!user.Password.Equals(signInUser.Password))
-        //    {
-        //        errorMessage = "Incorrect password";
-        //        return null;
-        //    }
-
-        //    errorMessage = null; // No error
-        //    return user;
-        //}
-
-
-
         public User SignUp(User user)
         {
             
             User u = _context.Users.FirstOrDefault(u=>u.Email==user.Email);
             if (u == null)
             {
+                user.Password = BCrypt.Net.BCrypt.HashPassword(user.Password);//הצפנה
                 _context.Users.Add(user);
                 _context.SaveChanges();
                 return user;

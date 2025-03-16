@@ -36,31 +36,36 @@ namespace AdFit.Service
             AdminAdvertisement ad = GetAdminById(id);
             if (ad == null)
             {
-                Console.WriteLine("ad not found");
-                return ;
+                Console.WriteLine("Ad not found");
+                return;
             }
-
-            // שלב 2: מחיקת התמונה מהתקיה
-            if (!string.IsNullOrEmpty(ad.Image))
+            string imageName = ad.Image;
+            bool isImageUsedByOtherAds = _advAdminRepository.GetAdminAdvertisements()
+                                                       .Any(a => a.Image == imageName && a.Id != id);
+            if (!isImageUsedByOtherAds) //אין לי עוד עם אותו שם
             {
-                try
+                // שלב 2: מחיקת התמונה מהתקיה
+                if (!string.IsNullOrEmpty(ad.Image))
                 {
-                    var imagesPath = Path.Combine(Environment.CurrentDirectory, "images");
-                    var imagePath = Path.Combine(imagesPath, ad.Image);
-
-                    if (System.IO.File.Exists(imagePath))
+                    try
                     {
-                        System.IO.File.Delete(imagePath); 
+                        var imagesPath = Path.Combine(Environment.CurrentDirectory, "images");
+                        var imagePath = Path.Combine(imagesPath, ad.Image);
+
+                        if (System.IO.File.Exists(imagePath))
+                        {
+                            System.IO.File.Delete(imagePath); // מחיקת הקובץ מהתקיה
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine(ex.Message);
+                        return;
                     }
                 }
-                catch (Exception ex)
-                {
-                    Console.WriteLine(ex.Message);
-                    return;
-                }
             }
-
             _advAdminRepository.DeleteAdminAdvertisement(id);
+
         }
         public AdminAdvertisement GetAdminById(int id)
         {

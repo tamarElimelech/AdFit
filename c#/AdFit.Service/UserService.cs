@@ -8,6 +8,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace AdFit.Service
@@ -46,17 +47,19 @@ namespace AdFit.Service
         {
             _userRepository.DeleteUser(id);
         }
-      
-        //public User SignIn(SignInModel signInUser, out string errorMessage)
-        //{
-        //    return _userRepository.SignIn(signInUser, out errorMessage);
-        //}
 
         public User SignUp(User user)
         {
             return _userRepository.SignUp(user);
         }
 
+        public bool IsPasswordHashed(string password)
+        {
+            // ביטוי רגולרי המוודא שהמחרוזת היא בהצפנה של BCrypt
+            var bcryptPattern = @"^\$2[ayb]\$.{56}$";
+
+            return Regex.IsMatch(password, bcryptPattern);
+        }
 
     }
 }

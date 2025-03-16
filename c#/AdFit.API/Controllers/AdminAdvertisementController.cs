@@ -2,6 +2,7 @@
 using AdFit.Core.Model;
 using AdFit.Core.Service;
 using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -10,6 +11,7 @@ namespace AdFit.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class AdminAdvertisementController : ControllerBase
     {
         private readonly IAdminAdvertisementService _advService;

@@ -68,28 +68,33 @@ namespace AdFit.Service
                 Console.WriteLine("Ad not found");
                 return;
             }
-
-            // שלב 2: מחיקת התמונה מהתקיה
-            if (!string.IsNullOrEmpty(ad.Image))
+            string imageName = ad.Image;
+            bool isImageUsedByOtherAds = _advRepository.GetAdvertisements()
+                                                       .Any(a => a.Image == imageName && a.Id != id);
+            if (!isImageUsedByOtherAds) //אין לי עוד עם אותו שם
             {
-                try
+                // שלב 2: מחיקת התמונה מהתקיה
+                if (!string.IsNullOrEmpty(ad.Image))
                 {
-                    var imagesPath = Path.Combine(Environment.CurrentDirectory, "images");
-                    var imagePath = Path.Combine(imagesPath, ad.Image);
-
-                    if (System.IO.File.Exists(imagePath))
+                    try
                     {
-                        System.IO.File.Delete(imagePath); // מחיקת הקובץ מהתקיה
+                        var imagesPath = Path.Combine(Environment.CurrentDirectory, "images");
+                        var imagePath = Path.Combine(imagesPath, ad.Image);
+
+                        if (System.IO.File.Exists(imagePath))
+                        {
+                            System.IO.File.Delete(imagePath); // מחיקת הקובץ מהתקיה
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine(ex.Message);
+                        return;
                     }
                 }
-                catch (Exception ex)
-                {
-                    Console.WriteLine(ex.Message);
-                    return;
-                }
             }
-            
             _advRepository.DeleteAdvertisement(id);
+
         }
 
       

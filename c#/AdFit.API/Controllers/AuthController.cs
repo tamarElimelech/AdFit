@@ -16,15 +16,13 @@ public class AuthController : ControllerBase
     private readonly IConfiguration _configuration;
     private readonly IUserService _userService;
     private readonly IMapper _mapper;
-    private readonly IArrangeService _arrangeService;
 
 
-    public AuthController(IConfiguration configuration,IUserService userService,IMapper mapper,IArrangeService arrangeService)
+    public AuthController(IConfiguration configuration,IUserService userService,IMapper mapper)
     {
         _configuration = configuration;
         _userService = userService;
         _mapper = mapper;
-        _arrangeService = arrangeService;
 
     }
 
@@ -36,11 +34,13 @@ public class AuthController : ControllerBase
         {
             return NotFound();
         }
-        if (loginModel.Password != u.Password)
+        if(!_userService.IsPasswordHashed(loginModel.Password) && !BCrypt.Net.BCrypt.Verify(loginModel.Password, u.Password))
         {
+       
+            //אם הסיסמא לא מוצפנת כלומר לא הגענו מהרישום וההשוואה לא נכונה אז תחזיר שגיאה
             return BadRequest();
         }
-            if (loginModel.Email == u.Email && loginModel.Password == u.Password)
+            if (loginModel.Email == u.Email)
         {
             var claims = new List<Claim>()
             {
