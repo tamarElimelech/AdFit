@@ -13,26 +13,27 @@ namespace AdFit.Service
     public class AdvertisementService:IAdvertisementService
     {
         private readonly IAdvertisementRepository _advRepository;
-        public AdvertisementService(IAdvertisementRepository advRepository)
+        private readonly IUserRepository _userRepository;
+        public AdvertisementService(IAdvertisementRepository advRepository, IUserRepository userRepository)
         {
             _advRepository = advRepository;
+            _userRepository = userRepository;
         }
 
         public List<Advertisement> GetAll()
         {
             return _advRepository.GetAdvertisements();
         }
-        public List<Advertisement> GetAllBytes()
+        public List<Advertisement> GetAllBytes(List<Advertisement> ads)
         {
-            List<Advertisement> advertisements= _advRepository.GetAdvertisements();
-            foreach (Advertisement a in advertisements)
+            foreach (Advertisement a in ads)
             {
                 a.Image = GetImage(a.Image);
             }
-            return advertisements;
+            return ads;
         }
 
-       private string GetImage(string ImageUrl)
+        private string GetImage(string ImageUrl)
         {
             if (ImageUrl != null)
             {

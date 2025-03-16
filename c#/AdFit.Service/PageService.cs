@@ -14,13 +14,20 @@ namespace AdFit.Service
     public class PageService: IPageService
     {
         private readonly IPageRepository _pageRepository;
-        public PageService(IPageRepository pageRepository)
+        private readonly IAdvertisementService _advertisementService;
+        public PageService(IPageRepository pageRepository,IAdvertisementService advertisementService)
         {
             _pageRepository = pageRepository;
+            _advertisementService = advertisementService;
         }
         public List<Page> GetAll()
         {
-            return _pageRepository.GetPages();
+            List<Page> pages= _pageRepository.GetPages();
+            foreach (Page p in pages)
+            {
+                p.Advertisements = _advertisementService.GetAllBytes(p.Advertisements);
+            }
+            return pages;
         }
         public Page AddPage(Page page)
         {
