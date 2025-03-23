@@ -1,0 +1,15 @@
+<nav class="navbar">
+    <div class="navbar-container">
+      <a routerLink="/" class="logo">AdFit</a>
+      <div class="nav-links">
+        <a routerLink="/" class="nav-link">Home</a>
+         
+        <a routerLink="/logout" class="nav-link">logout</a>
+        <a routerLink="/user" class="nav-link">profile</a>
+        @if(isManeger){
+          <a routerLink="/maneger" class="nav-link">maneger</a>
+        }
+          
+      </div>
+    </div>
+  </nav>

@@ -1,0 +1,208 @@
+.auth-container {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 50px;
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 30px;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(20px);
+    animation: slideUp 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+  }
+  
+  @keyframes slideUp {
+    from {
+      opacity: 0;
+      transform: translateY(30px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  h2 {
+    color: #2d3748;
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    background: linear-gradient(45deg, #6B5B95, #FF6F91);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    position: relative;
+  }
+  
+  h2::after {
+    content: '';
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 50px;
+    height: 4px;
+    background: linear-gradient(45deg, #6B5B95, #FF6F91);
+    border-radius: 2px;
+  }
+  
+  .form-group {
+    margin-bottom: 25px;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 10px;
+    color: #6B5B95;
+    font-weight: 500;
+    font-size: 1rem;
+    transform-origin: left;
+    transition: all 0.3s ease;
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 15px 20px;
+    border: 2px solid #e2e8f0;
+    border-radius: 15px;
+    font-size: 1.1rem;
+    transition: all 0.3s ease;
+    background: rgba(255, 255, 255, 0.9);
+  }
+  
+  .form-group input:focus {
+    outline: none;
+    border-color: #6B5B95;
+    box-shadow: 0 0 0 4px rgba(107, 91, 149, 0.1);
+    transform: translateY(-2px);
+  }
+  
+  .form-group::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(45deg, #6B5B95, #FF6F91);
+    transform: scaleX(0);
+    transition: transform 0.3s ease;
+  }
+  
+  .form-group:focus-within::after {
+    transform: scaleX(1);
+  }
+  
+  .btn {
+    width: 100%;
+    padding: 16px;
+    background: linear-gradient(45deg, #6B5B95, #FF6F91);
+    color: white;
+    border: none;
+    border-radius: 15px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .btn::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(
+      90deg,
+      transparent,
+      rgba(255, 255, 255, 0.2),
+      transparent
+    );
+    transition: 0.5s;
+  }
+  
+  .btn:hover::before {
+    left: 100%;
+  }
+  
+  .btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(107, 91, 149, 0.3);
+  }
+  
+  .auth-link {
+    text-align: center;
+    margin-top: 30px;
+    position: relative;
+  }
+  
+  .auth-link::before,
+  .auth-link::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    width: 30%;
+    height: 1px;
+    background: linear-gradient(45deg, #6B5B95, transparent);
+  }
+  
+  .auth-link::before {
+    left: 0;
+  }
+  
+  .auth-link::after {
+    right: 0;
+    background: linear-gradient(45deg, transparent, #FF6F91);
+  }
+  
+  .auth-link p {
+    color: #4a5568;
+    font-size: 1rem;
+    position: relative;
+    z-index: 1;
+    background: rgba(255, 255, 255, 0.9);
+    display: inline-block;
+    padding: 0 15px;
+  }
+  
+  .auth-link a {
+    color: #6B5B95;
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    position: relative;
+    padding: 0 5px;
+  }
+  
+  .auth-link a::before {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(45deg, #6B5B95, #FF6F91);
+    transform: scaleX(0);
+    transition: transform 0.3s ease;
+  }
+  
+  .auth-link a:hover::before {
+    transform: scaleX(1);
+  }
+  
+  @keyframes shimmer {
+    0% {
+      background-position: -200% 0;
+    }
+    100% {
+      background-position: 200% 0;
+    }
+  }
+  
+  .form-group input:focus ~ label {
+    color: #6B5B95;
+    transform: translateY(-5px) scale(0.95);
+  }

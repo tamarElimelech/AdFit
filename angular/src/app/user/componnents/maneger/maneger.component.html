@@ -1,0 +1,37 @@
+<div class="home-container">
+    <section class="hero-section">
+      <h1>HELLO TO {{user.name}}</h1>
+      <p class="subtitle">Welcome to your personal area</p>
+    </section>
+  
+    <section class="cta-section">
+     
+        <div class="feature-icon">💰</div>
+        <a routerLink="/prices" >
+        <h3>Advertisements prices</h3>
+        <!-- <p>Customize your account preferences</p> -->
+      </a>
+ 
+    </section>
+  
+    <section class="cta-section">
+     
+        <div class="feature-icon">📰</div>
+        <a routerLink="/advertisementAdmin" >
+        <h3>Newspaper Advertisements</h3>
+        <!-- <p>Customize your account preferences</p> -->
+      </a>
+ 
+    </section>
+    <section class="cta-section">
+
+      <h2>Get Started</h2>
+      <p>Start
+        Arrange all your ads into a perfect newspaper</p>
+      <button class="cta-button" (click)="openPopup()">Arrange Now</button>
+    </section>
+  
+
+  </div>
+  
+  <router-outlet></router-outlet>

@@ -1,0 +1,33 @@
+<div class="home-container">
+    <section class="hero-section">
+      <h1>HELLO TO {{user.name}}</h1>
+      <p class="subtitle">Welcome to your personal area</p>
+    </section>
+  
+    <section class="features-section">
+        <a routerLink="/adsvertisementByUser" class="feature-card">
+          <div class="feature-icon">🎴</div>
+        <h3>My Advertisements</h3>
+        <!-- <p>Customize your account preferences</p> -->
+      </a>
+    </section>
+  
+
+  
+    <section class="benefits-section">
+      <div class="benefit-item">
+        <h4>Personalization</h4>
+        <p>Customize your experience according to your preferences</p>
+      </div>
+      <div class="benefit-item">
+        <h4>Security</h4>
+        <p>Your data is protected with advanced security measures</p>
+      </div>
+      <div class="benefit-item">
+        <h4>Support</h4>
+        <p>24/6 support available whenever you need assistance</p>
+      </div>
+    </section>
+  </div>
+  
+  <router-outlet></router-outlet>

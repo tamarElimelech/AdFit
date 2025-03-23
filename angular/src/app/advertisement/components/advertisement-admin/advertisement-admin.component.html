@@ -1,0 +1,112 @@
+<!-- <div class="home-container">
+    <section class="hero-section">
+      <h1>Your Advertisements</h1>
+      <p class="subtitle">Manage and view all your active advertisements</p>
+    </section>
+    <form (ngSubmit)="onSubmit()" #adForm="ngForm">
+    <div class="ad-grid">
+      @for (ad of advertisements; track $index) {
+        <div class="ad-card">
+          <div class="ad-image-container">
+          @if(flag){
+           <input
+            type="file"
+            id="image"
+            (change)="onFileSelected($event)"
+            accept="image/*"
+            required
+            />
+          }@else
+
+          {<img [src]="ad.image" [alt]="'Advertisement'" class="ad-image">}
+
+          </div>
+          <div class="ad-content">
+            <div class="ad-details">
+              
+              <p><strong>Size:</strong> {{getSizeLabel(ad.size)}}</p>
+              @if(flag){
+                <label for="weeks">Number of Weeks</label>
+              <input
+               type="number"
+               id="weeks"
+               name="weeks"
+               [(ngModel)]="newAdvertisement.numOfWeeks"
+               required
+               min="1"
+               max="52"
+                 />
+              }@else{
+             <p><strong>Weeks Left:</strong> {{ad.numOfWeeks}} weeks</p>
+              }
+
+              @if(flag){
+                <button type="submit" class="submit-button" [disabled]="!adForm.form.valid">submit</button>
+              }@else{
+                <button (click)="update()"><p>update</p></button>
+              }
+              
+              
+            </div>
+          </div>
+        </div>
+    }
+    </div>
+</form>
+  </div> -->
+
+  <div class="home-container">
+    <section class="hero-section">
+      <h1>Your Advertisements</h1>
+      <p class="subtitle">Manage and view all your active advertisements</p>
+    </section>
+    
+    <div class="ad-grid">
+      @for (ad of advertisements; track $index) {
+        <div class="ad-card">
+          <div class="ad-image-container">
+            @if (selectedAdIndex === $index) {
+              <input
+                type="file"
+                id="image-{{$index}}"
+                (change)="onFileSelected($event)"
+                accept="image/*"
+                required
+              />
+            } @else {
+              <img [src]="ad.image" [alt]="'Advertisement'" class="ad-image">
+            }
+          </div>
+          <div class="ad-content">
+            <div class="ad-details">
+              <p><strong>Size:</strong> {{getSizeLabel(ad.size)}}</p>
+              
+              @if (selectedAdIndex === $index) {
+                <form (ngSubmit)="onSubmit($index)" #adForm="ngForm">
+                  <div class="form-group">
+                    <label for="weeks-{{$index}}">Number of Weeks</label>
+                    <input
+                      type="number"
+                      id="weeks-{{$index}}"
+                      name="weeks"
+                      [(ngModel)]="newAdvertisement.numOfWeeks"
+                      required
+                      min="1"
+                      max="52"
+                    />
+                  </div>
+                  <div class="button-group">
+                    <button type="submit" class="submit-button" [disabled]="!adForm.form.valid">Submit</button>
+                    <button type="button" class="cancel-button" (click)="cancelUpdate()">Cancel</button>
+                  </div>
+                </form>
+              } @else {
+                <p><strong>Weeks Left:</strong> {{ad.numOfWeeks}} weeks</p>
+                <button class="update-button" (click)="update($index)">Update</button>
+              }
+            </div>
+          </div>
+        </div>
+      }
+    </div>
+  </div>

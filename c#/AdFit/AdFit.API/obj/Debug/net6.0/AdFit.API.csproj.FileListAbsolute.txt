@@ -1,0 +1,908 @@
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.AssemblyInfo.cs
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\appsettings.json
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.exe
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.deps.json
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.runtimeconfig.json
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.pdb
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Core.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Data.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Service.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Service.pdb
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Core.pdb
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Data.pdb
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\obj\Debug\net6.0\scopedcss\bundle\AdFit.API.styles.css
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.csproj.CopyComplete
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\obj\Debug\net6.0\refint\AdFit.API.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.pdb
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.genruntimeconfig.cache
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\obj\Debug\net6.0\ref\AdFit.API.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.pdb
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\appsettings.Development.json
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\appsettings.json
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.exe
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.deps.json
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.runtimeconfig.json
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.pdb
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\AutoMapper.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\AutoMapper.Extensions.ExpressionMapping.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Azure.Core.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Azure.Identity.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Humanizer.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\System.CodeDom.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\System.Drawing.Common.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\System.Memory.Data.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\System.Security.Permissions.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\System.Text.Json.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Core.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Data.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Service.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Service.pdb
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Core.pdb
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Data.pdb
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.csproj.AssemblyReference.cache
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.GeneratedMSBuildEditorConfig.editorconfig
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.AssemblyInfoInputs.cache
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.AssemblyInfo.cs
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.csproj.CoreCompileInputs.cache
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.MvcApplicationPartsAssemblyInfo.cs
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.MvcApplicationPartsAssemblyInfo.cache
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets\msbuild.AdFit.API.Microsoft.AspNetCore.StaticWebAssets.props
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets\msbuild.build.AdFit.API.props
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AdFit.API.props
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AdFit.API.props
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets.pack.json
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets.build.json
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets.development.json
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\obj\Debug\net6.0\scopedcss\bundle\AdFit.API.styles.css
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.csproj.CopyComplete
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\obj\Debug\net6.0\refint\AdFit.API.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.genruntimeconfig.cache
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.API\obj\Debug\net6.0\ref\AdFit.API.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\appsettings.json
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.exe
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.deps.json
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.runtimeconfig.json
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Core.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Data.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Service.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Service.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Core.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Data.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.AssemblyInfo.cs
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets\msbuild.AdFit.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets\msbuild.build.AdFit.API.props
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AdFit.API.props
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AdFit.API.props
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\obj\Debug\net6.0\scopedcss\bundle\AdFit.API.styles.css
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.csproj.CopyComplete
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\obj\Debug\net6.0\refint\AdFit.API.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.genruntimeconfig.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\obj\Debug\net6.0\ref\AdFit.API.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\appsettings.json
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.exe
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.deps.json
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.runtimeconfig.json
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Core.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Data.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Service.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Service.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Core.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Data.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.AssemblyInfo.cs
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets\msbuild.AdFit.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets\msbuild.build.AdFit.API.props
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AdFit.API.props
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AdFit.API.props
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\obj\Debug\net6.0\scopedcss\bundle\AdFit.API.styles.css
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.csproj.CopyComplete
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\obj\Debug\net6.0\refint\AdFit.API.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.genruntimeconfig.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.API\obj\Debug\net6.0\ref\AdFit.API.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\appsettings.json
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.exe
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.deps.json
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.runtimeconfig.json
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Core.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Data.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Service.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Service.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Core.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Data.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.AssemblyInfo.cs
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets\msbuild.AdFit.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets\msbuild.build.AdFit.API.props
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AdFit.API.props
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AdFit.API.props
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\obj\Debug\net6.0\scopedcss\bundle\AdFit.API.styles.css
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.csproj.CopyComplete
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\obj\Debug\net6.0\refint\AdFit.API.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.genruntimeconfig.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.API\obj\Debug\net6.0\ref\AdFit.API.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\obj\Debug\net6.0\AdFit.API.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\obj\Debug\net6.0\AdFit.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\obj\Debug\net6.0\AdFit.API.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\obj\Debug\net6.0\AdFit.API.AssemblyInfo.cs
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\obj\Debug\net6.0\AdFit.API.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\obj\Debug\net6.0\AdFit.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\appsettings.json
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\AdFit.API.exe
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\AdFit.API.deps.json
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\AdFit.API.runtimeconfig.json
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\AdFit.API.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\AdFit.API.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\AdFit.Core.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\AdFit.Data.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\AdFit.Service.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\AdFit.Service.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\AdFit.Core.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\AdFit.Data.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\obj\Debug\net6.0\staticwebassets\msbuild.AdFit.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\obj\Debug\net6.0\staticwebassets\msbuild.build.AdFit.API.props
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AdFit.API.props
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AdFit.API.props
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\obj\Debug\net6.0\scopedcss\bundle\AdFit.API.styles.css
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\obj\Debug\net6.0\AdFit.API.csproj.CopyComplete
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\obj\Debug\net6.0\AdFit.API.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\obj\Debug\net6.0\refint\AdFit.API.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\obj\Debug\net6.0\AdFit.API.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\obj\Debug\net6.0\AdFit.API.genruntimeconfig.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\obj\Debug\net6.0\ref\AdFit.API.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.API\obj\Debug\net6.0\AdFit.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\appsettings.json
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.exe
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.deps.json
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.runtimeconfig.json
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.pdb
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Core.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Data.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Service.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Service.pdb
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Core.pdb
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Data.pdb
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.AssemblyInfo.cs
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\obj\Debug\net6.0\scopedcss\bundle\AdFit.API.styles.css
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.csproj.CopyComplete
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\obj\Debug\net6.0\refint\AdFit.API.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.pdb
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.genruntimeconfig.cache
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.API\obj\Debug\net6.0\ref\AdFit.API.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\appsettings.json
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.exe
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.deps.json
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.runtimeconfig.json
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.pdb
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Core.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Data.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Service.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Service.pdb
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Core.pdb
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Data.pdb
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.AssemblyInfo.cs
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets\msbuild.AdFit.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets\msbuild.build.AdFit.API.props
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AdFit.API.props
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AdFit.API.props
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\scopedcss\bundle\AdFit.API.styles.css
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.csproj.CopyComplete
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\refint\AdFit.API.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.pdb
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.genruntimeconfig.cache
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\ref\AdFit.API.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\appsettings.json
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.exe
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.deps.json
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.runtimeconfig.json
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.API.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Core.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Data.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Service.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Service.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Core.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\bin\Debug\net6.0\AdFit.Data.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.AssemblyInfo.cs
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets\msbuild.AdFit.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets\msbuild.build.AdFit.API.props
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AdFit.API.props
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AdFit.API.props
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\scopedcss\bundle\AdFit.API.styles.css
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.csproj.CopyComplete
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\refint\AdFit.API.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\AdFit.API.genruntimeconfig.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.API\obj\Debug\net6.0\ref\AdFit.API.dll

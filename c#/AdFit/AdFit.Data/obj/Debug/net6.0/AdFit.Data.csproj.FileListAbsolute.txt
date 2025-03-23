@@ -1,0 +1,135 @@
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.AssemblyInfo.cs
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Data.deps.json
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Data.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Data.pdb
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Core.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Core.pdb
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.csproj.CopyComplete
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.Data\obj\Debug\net6.0\refint\AdFit.Data.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.pdb
+C:\Users\user1\Desktop\שיעורי בית\C#\AdFit\AdFit.Data\obj\Debug\net6.0\ref\AdFit.Data.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Data.deps.json
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Data.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Data.pdb
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Core.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Core.pdb
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.csproj.AssemblyReference.cache
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.GeneratedMSBuildEditorConfig.editorconfig
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.AssemblyInfoInputs.cache
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.AssemblyInfo.cs
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.csproj.CoreCompileInputs.cache
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.csproj.CopyComplete
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.Data\obj\Debug\net6.0\refint\AdFit.Data.dll
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.pdb
+M:\שבבים ב תשפ''ה\C#\יעל צוברי\AdFit\AdFit.Data\obj\Debug\net6.0\ref\AdFit.Data.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Data.deps.json
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Data.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Data.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Core.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Core.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.AssemblyInfo.cs
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.csproj.CopyComplete
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.Data\obj\Debug\net6.0\refint\AdFit.Data.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\final project\AdFit\AdFit.Data\obj\Debug\net6.0\ref\AdFit.Data.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Data.deps.json
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Data.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Data.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Core.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Core.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.AssemblyInfo.cs
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.csproj.CopyComplete
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.Data\obj\Debug\net6.0\refint\AdFit.Data.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\c#\AdFit\AdFit.Data\obj\Debug\net6.0\ref\AdFit.Data.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Data.deps.json
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Data.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Data.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Core.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Core.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.AssemblyInfo.cs
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.csproj.CopyComplete
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.Data\obj\Debug\net6.0\refint\AdFit.Data.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\AdFit.Data\obj\Debug\net6.0\ref\AdFit.Data.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.Data\bin\Debug\net6.0\AdFit.Data.deps.json
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.Data\bin\Debug\net6.0\AdFit.Data.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.Data\bin\Debug\net6.0\AdFit.Data.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.Data\bin\Debug\net6.0\AdFit.Core.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.Data\bin\Debug\net6.0\AdFit.Core.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.Data\obj\Debug\net6.0\AdFit.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.Data\obj\Debug\net6.0\AdFit.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.Data\obj\Debug\net6.0\AdFit.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.Data\obj\Debug\net6.0\AdFit.Data.AssemblyInfo.cs
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.Data\obj\Debug\net6.0\AdFit.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.Data\obj\Debug\net6.0\AdFit.Data.csproj.CopyComplete
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.Data\obj\Debug\net6.0\AdFit.Data.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.Data\obj\Debug\net6.0\refint\AdFit.Data.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.Data\obj\Debug\net6.0\AdFit.Data.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\ANGULAR_CS project\c#\AdFit\c#\AdFit.Data\obj\Debug\net6.0\ref\AdFit.Data.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Data.deps.json
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Data.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Data.pdb
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Core.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Core.pdb
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.AssemblyInfo.cs
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.csproj.CopyComplete
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.Data\obj\Debug\net6.0\refint\AdFit.Data.dll
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.pdb
+C:\Users\user1\Desktop\שיעורי בית\C#\project\AdFit\AdFit.Data\obj\Debug\net6.0\ref\AdFit.Data.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Data.deps.json
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Data.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Data.pdb
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Core.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Core.pdb
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.AssemblyInfo.cs
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.csproj.CopyComplete
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.Data\obj\Debug\net6.0\refint\AdFit.Data.dll
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.pdb
+C:\Users\user1\Desktop\project AdFit\c#\AdFit\AdFit.Data\obj\Debug\net6.0\ref\AdFit.Data.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Data.deps.json
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Data.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Data.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Core.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.Data\bin\Debug\net6.0\AdFit.Core.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.AssemblyInfo.cs
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.csproj.CopyComplete
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.Data\obj\Debug\net6.0\refint\AdFit.Data.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.Data\obj\Debug\net6.0\AdFit.Data.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\project AdFit\c#\AdFit\AdFit.Data\obj\Debug\net6.0\ref\AdFit.Data.dll

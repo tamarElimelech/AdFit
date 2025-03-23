@@ -1,0 +1,40 @@
+<div class="home-container">
+    <section class="hero-section">
+      <h1>Prices</h1>
+    </section>
+    
+    <div class="p-grid">
+      @for (p of prices; track $index) {
+        <div class="p-card">
+          <div class="p-image-container">
+            @if (selectedIndex === $index) {
+              <input
+                type="number"
+                id="price-{{$index}}"
+                [(ngModel)]="newPrice.adPrice"
+                required
+              />
+            } @else {
+              <p class="p-text">{{p.adPrice}}  $</p>
+            }
+          </div>
+          <div class="p-content">
+            <div class="p-details">
+              <p><strong>Size:</strong> {{getSizeLabel(p.size)}}</p>
+              
+              @if (selectedIndex === $index) {
+                <form (ngSubmit)="onSubmit($index)" #pForm="ngForm">
+                  <div class="button-group">
+                    <button type="submit" class="submit-button" [disabled]="!pForm.form.valid">Submit</button>
+                    <button type="button" class="cancel-button" (click)="cancelUpdate()">Cancel</button>
+                  </div>
+                </form>
+              } @else {
+                <button class="update-button" (click)="update($index)">Update</button>
+              }
+            </div>
+          </div>
+        </div>
+      }
+    </div>
+  </div>
