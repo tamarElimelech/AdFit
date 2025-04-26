@@ -15,8 +15,6 @@ export class PopUpComponent{
   modalRef!:NgbModalRef
 
   closePopup() {
-    console.log('reffffffffffff');
-    
        this.modalRef=this.modalService.open(PopUpComponent);
        this.modalRef.close();
   }

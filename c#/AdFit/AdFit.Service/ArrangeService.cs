@@ -41,8 +41,6 @@ namespace AdFit.Service
                 {
                     if (ad.NumOfWeeks > 0)
                     {
-                        ad.NumOfWeeks--; //remove this week
-                        _advService.UpdateAdvertisement(ad.Id, ad);
                         cntAd++; //count the advertisment
                         switch ((int)ad.Size)
                         {
@@ -83,6 +81,8 @@ namespace AdFit.Service
 
             return allAdvertisementsOrderBySize;
         }
+
+       
         public int SumAllAdd()
         {
             List<Advertisement> advertisements = _advService.GetAll();
@@ -140,7 +140,14 @@ namespace AdFit.Service
                 _pageService.DeletePage(p.Id);
             }
         }
-       
+
+        public void UpdateWeeks(Advertisement ad)
+        {
+            ad.NumOfWeeks--; //remove this week
+            _advService.UpdateAdvertisement(ad.Id, ad);
+            return;
+        }
+
         public void PlacingAdvertisementsOnPages()
         {
             deleteOldPages();
@@ -172,11 +179,11 @@ namespace AdFit.Service
                     pages[randPage] = _pageService.AddPage(pages[randPage]);
                 }
                 Page selectedPage = pages[randPage];
-
                 selectedPage.Advertisements.Add(allAdvertisements[NumberAdsPlaced]);
                 selectedPage.Capacity += (int)allAdvertisements[NumberAdsPlaced].Size;
                 selectedPage.PageNumber = randPage;
                 Page p = _pageService.UpdatePage(selectedPage.Id, selectedPage);
+                UpdateWeeks(allAdvertisements[NumberAdsPlaced]);
                 NumberAdsPlaced++;
             }
         }

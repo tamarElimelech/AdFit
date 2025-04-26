@@ -5,10 +5,8 @@
         <a routerLink="/" class="nav-link">Home</a>
          
         <a routerLink="/logout" class="nav-link">logout</a>
-        <a routerLink="/user" class="nav-link">profile</a>
-        @if(isManeger){
-          <a routerLink="/maneger" class="nav-link">maneger</a>
-        }
+        <a routerLink="/user/user-profile" class="nav-link">profile</a>
+          <a routerLink="/user/manager-profile" class="nav-link" [appShowIfManager]="userEmail">maneger</a>
           
       </div>
     </div>

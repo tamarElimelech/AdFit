@@ -24,12 +24,10 @@ export class LoginComponent implements OnInit {
 
 
   onSubmit(){
-    console.log("gggggggggggggggggggggg");
     
     this._userService.login({ email:this.email, password: this.password }).subscribe({
 
       next:(res:any)=>{
-         console.log("hiiii",res);
 
         if(res.status==200){
          

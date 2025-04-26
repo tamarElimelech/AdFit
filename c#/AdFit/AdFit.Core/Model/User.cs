@@ -10,7 +10,6 @@ namespace AdFit.Core.Model
     public enum ERole
     {
         ADMIN,
-        NEWSPAPER_OWNER,
         USER
     }
     public class User
@@ -22,6 +21,6 @@ namespace AdFit.Core.Model
         public string Phone { get; set; }
         public List<Advertisement> Advertisements { get; set; } = new List<Advertisement>(); 
 
-        public ERole Role { get; set; }
+        public ERole Role { get; set; }=ERole.USER;
     }
 }

@@ -14,7 +14,7 @@ export class LogoutComponent {
   constructor(private _router:Router, private _userService:UserService){}
 
 logout(){
-    localStorage.removeItem('user'); // מוחק את הטוקן
+    localStorage.removeItem('user'); 
     this._userService.isAuthenticated$.next(false);
     this._router.navigate(['/login']);
 }

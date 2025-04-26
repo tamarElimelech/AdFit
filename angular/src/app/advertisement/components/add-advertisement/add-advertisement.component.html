@@ -1,38 +1,38 @@
 <div class="form-container">
-    <div class="form-card">
-      <h2>Create Your Advertisement</h2>
-      <form (ngSubmit)="onSubmit()" #adForm="ngForm">
-        <div class="form-group">
-          <label for="image">Advertisement Image</label>
-          <div class="file-upload">
-            <input
-              type="file"
-              id="image"
-              (change)="onFileSelected($event)"
-              accept="image/*"
-              required
-            />
-            <div class="file-upload-label">
-              <span>{{ advertisement.image?.name || 'Choose an image' }}</span>
-              <button type="button" class="browse-button">Browse</button>
-            </div>
+  <div class="form-card">
+    <h2>Create Your Advertisement</h2>
+    <form [formGroup]="adForm">
+      <div class="form-group">
+        <label for="image">Advertisement Image</label>
+        <div class="file-upload">
+          <input
+            type="file"
+            id="image"
+            (change)="onFileSelected($event)"
+            accept="image/*"
+            required
+          />
+          <div class="file-upload-label">
+            <span>{{ selectedFile?.name || 'Choose an image' }}</span>
+            <button type="button" class="browse-button">Browse</button>
           </div>
         </div>
-  
-        <div class="form-group">
-          <label for="size">Advertisement Size</label>
-          <div class="size-options">
-            <div class="size-grid">
-          
-               @for (size of sizes; track size.index) {
+        @if(!selectedFile) {
+          <div class="error-message">Please select an image</div>
+        }
+      </div>
+
+      <div class="form-group">
+        <label for="size">Advertisement Size</label>
+        <div class="size-options">
+          <div class="size-grid">
+            @for (size of sizes; track size.index) {
               <div class="size-option">
                 <input
                   type="radio"
                   [id]="'size-' + size.value"
-                  name="size"
+                  formControlName="size"
                   [value]="size.value"
-                  [(ngModel)]="advertisement.size"
-                  required
                 />
                 <label [for]="'size-' + size.value" class="size-label">
                   <span class="size-name">size: {{ size.label }}</span>
@@ -41,27 +41,40 @@
                 </label>
               </div>
             }
-            </div>
           </div>
         </div>
-  
-        <div class="form-group">
-          <label for="weeks">Number of Weeks</label>
-          <input
-            type="number"
-            id="weeks"
-            name="weeks"
-            [(ngModel)]="advertisement.numOfWeeks"
-            required
-            min="1"
-            max="52"
-          />
-        </div>
-  
-        <button type="submit" class="submit-button" [disabled]="!adForm.form.valid">
-          Submit Advertisement
-        </button>
-      </form>
-    </div>
-  </div>
+        @if(adForm.controls['size'].errors) {
+          @if(adForm.controls['size'].errors['required']) {
+            <div class="error-message">Please select an advertisement size</div>
+          }
+        }
+      </div>
 
+      <div class="form-group">
+        <label for="weeks">Number of Weeks</label>
+        <input
+          type="number"
+          id="weeks"
+          formControlName="numOfWeeks"
+          min="1"
+          max="52"
+        />
+        @if(adForm.controls['numOfWeeks'].errors) {
+          @if(adForm.controls['numOfWeeks'].errors['required']) {
+            <div class="error-message">Please enter number of weeks</div>
+          }
+          @if(adForm.controls['numOfWeeks'].errors['min']) {
+            <div class="error-message">Minimum 1 week required</div>
+          }
+          @if(adForm.controls['numOfWeeks'].errors['max']) {
+            <div class="error-message">Maximum 52 weeks allowed</div>
+          }
+        }
+      </div>
+
+      <button (click)="save()" class="submit-button" [disabled]="adForm.invalid || !selectedFile">
+        Submit Advertisement
+      </button>
+    </form>
+  </div>
+</div>

@@ -18,7 +18,8 @@
     </div>
     
     <div class="newspaper-grid">
-      <ng-container *ngFor="let ad of currentPage.advertisements">
+      @for (ad of currentPage.advertisements; track $index) {
+      <ng-container>
         <div [class]="'ad-block size-' + getSizeClass(ad.size)">
           <div class="ad-content">
             <div class="image-wrapper">
@@ -32,6 +33,7 @@
           </div>
         </div>
       </ng-container>
+    }
     </div>
   </div>
 </div>
